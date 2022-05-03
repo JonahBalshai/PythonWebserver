@@ -1,0 +1,6 @@
+-frontend überarbeiten (vor allem html und js files)
+-make sure content lenght is always sent with when uploading file
+-look over any possible problems with the valid string detection
+-alle TODOS machen
+-Dynamisch page generieren mit username so alle pages session-abhängig
+-look at cgi problems
